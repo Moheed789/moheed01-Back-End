@@ -1,0 +1,14 @@
+mobile-api/.env
+mobile-api/node_modules
+
+error-handling/.env
+error-handling/node_modules
+
+Student-api/.env
+Student-api/node_modules
+
+User-api/.env
+User-api/node_modules
+
+Workouts-api/.env
+Workouts-api/node_modules
