@@ -15,3 +15,6 @@ Workouts-api/node_modules
 
 Nodejs_API/.env
 Nodejs_API/node_modules
+
+NODE_API/node_modules
+NODE_API/data/config.env
