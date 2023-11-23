@@ -18,3 +18,6 @@ Nodejs_API/node_modules
 
 NODE_API/node_modules
 NODE_API/data/config.env
+
+TODO-APP/.env
+TODO-APP/node_modules
