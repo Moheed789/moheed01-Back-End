@@ -20,9 +20,10 @@ const getTask = async (req, res) => {
 
 const createTask = async (req, res, next) => {
     try {
-        const { task } = req.body;
+        const { task, task_id } = req.body;
         await Task.create({
             task,
+            task_id
         });
         res.status(201).json({
             success: true,

@@ -6,6 +6,10 @@ const taskModels = new mongoose.Schema({
     task: {
         type: String, 
         required: true
+    },
+    task_id: {
+        type: Number,
+        required: true
     }
 });
 
