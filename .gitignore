@@ -21,3 +21,6 @@ NODE_API/data/config.env
 
 TODO-APP/.env
 TODO-APP/node_modules
+
+Backend_Api/.env
+Backend_Api/node_modules

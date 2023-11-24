@@ -1,0 +1,18 @@
+{
+  "name": "backend_api",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Moheed Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
