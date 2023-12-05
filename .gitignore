@@ -22,6 +22,9 @@ NODE_API/data/config.env
 TODO-APP/.env
 TODO-APP/node_modules
 
+Note_Api/node_modules
+Note_Api/.env
+
 Chai aur backend/Lecture 1/node_modules
 Chai aur backend/Lecture 1/.env
 
