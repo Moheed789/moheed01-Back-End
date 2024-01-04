@@ -32,3 +32,12 @@ Color_Api/.env
 
 User-Todo-app/node_modules
 User-Todo-app/.env
+
+User_Data/node_modules
+User_Data/.env
+
+Blog-App/node_modules
+Blog-App/.env
+
+TwitterBackend/node_modules
+TwitterBackend/.env
